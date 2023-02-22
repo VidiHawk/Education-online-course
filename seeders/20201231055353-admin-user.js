@@ -3,15 +3,15 @@
 module.exports = {
   up: (queryInterface, Sequelize) => {
     return queryInterface.bulkInsert('Users', [{
-      id: '1340065c-d716-4673-a87c-6f70e2ee5f1d',
-      name: 'EnvyTheme',
+      id: '9940065c-d716-4673-a87c-6f70e2ee5f1d',
+      name: 'Fox',
       /* 
-      * The encrypted password is "EnvyTheme" 
+      * The encrypted password is "fox" 
       * If you want to change the default password then go to the website https://www.devglan.com/online-tools/bcrypt-hash-generator
       * Then encrypt your string by 9 Rounds and paste here
       */
-      password: '$2y$10$PJgqTXZbExafNH7nl3uAru9DF75VHaBjxTWm/u2GLFjs0R.WvNn9u', 
-      email: 'hello@envytheme.com',
+      password: '$2a$04$g0yYpLb.0yIxpfevHUW3VePTPPsnxlgHlpoijX4NkDB9Nviy8iG7G', 
+      email: 'fox@example.com',
       role: 'admin',
       createdAt: new Date(),
       updatedAt: new Date()

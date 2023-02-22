@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"../components/SingleCourses/StaticCoursesDetailsSidebar.js -> react-modal-video":{"id":"../components/SingleCourses/StaticCoursesDetailsSidebar.js -> react-modal-video","files":["static/chunks/node_modules_react-modal-video_lib_index_js.js"]}}
+self.__REACT_LOADABLE_MANIFEST={}
