@@ -3,5 +3,8 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/authentication": "pages/authentication.js",
-  "/404": "pages/404.js"
+  "/api/v1/auth/signin": "pages/api/v1/auth/signin.js",
+  "/": "pages/index.js",
+  "/api/v1/courses/homepage-courses": "pages/api/v1/courses/homepage-courses.js",
+  "/api/v1/auth/account": "pages/api/v1/auth/account.js"
 }

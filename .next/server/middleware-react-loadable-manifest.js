@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={}
+self.__REACT_LOADABLE_MANIFEST={"../components/Index/Ad.js -> react-modal-video":{"id":"../components/Index/Ad.js -> react-modal-video","files":["static/chunks/node_modules_react-modal-video_lib_index_js.js"]}}

@@ -38,12 +38,12 @@ const Layout = ({ children, user }) => {
     return(
         <React.Fragment>
             <Head>
-                <title>eDemy - React Next.js Education LMS Template</title>
+                <title>React Next.js Education LMS Template</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                <meta name="description" content="eDemy - React Next.js Education LMS Template" />
+                <meta name="description" content="React Next.js Education LMS Template" />
                 <meta name="og:title" property="og:title" content="eDemy - React Next.js Education LMS Template"></meta>
                 <meta name="twitter:card" content="eDemy - React Next.js Education LMS Template"></meta>
-                <link rel="canonical" href="https://edemy-react.example.com/"></link>
+                <link rel="canonical" href="https://react.example.com/"></link>
             </Head>
 
             {loader && <Preloader />}
