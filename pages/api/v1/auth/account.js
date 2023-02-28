@@ -37,7 +37,7 @@ export default async (req, res) => {
             res.status(405).send(`Method ${req.method} not allowed`);
     }
 }
-
+ 
 const handlePostRequest = async (req, res) => {
     const {currentPassword, newPassword, newConfirmPassword} = req.body
     try {
